@@ -1,0 +1,39 @@
+.col-md-2 {
+  background:#FFCC7F;
+}
+
+.col-md-3  {
+  background:#7FFF7F;
+}
+
+.col-md-6 {
+  background:#00ff00;
+}
+
+@media screen and (min-width : 375px) {
+  .col-md-2 {
+    background:#AACC7F;
+  }
+
+  .col-md-3  {
+    background:#7BBF7F;
+  }
+
+  .col-md-6 {
+    background:#00ffCC;
+  }
+}
+
+@media screen and (min-width : 768px) {
+  .col-md-2 {
+    background:#11CC7F;
+  }
+
+  .col-md-3  {
+    background:#33FF7F;
+  }
+
+  .col-md-6 {
+    background:#44ff00;
+  }
+}
